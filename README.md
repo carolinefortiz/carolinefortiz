@@ -1,6 +1,6 @@
 Olá! Eu sou a Caroline Ortiz
 
-- Cursando 3º semestre de Análise e Desenvolvimento de Sistemas em FATEC SENAI Porto Alegre/RS
+- Cursando 5º semestre de Análise e Desenvolvimento de Sistemas em FATEC SENAI Porto Alegre/RS
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=carolinefortiz&show_icons=true&bg_color=00000000)
 
